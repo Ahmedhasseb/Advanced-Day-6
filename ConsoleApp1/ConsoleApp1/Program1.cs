@@ -2,7 +2,7 @@
 
 namespace ConsoleApp1
 {
-    class Program
+    class Program1
     {
         static void Main()
         {
@@ -21,7 +21,7 @@ namespace ConsoleApp1
 
         static void CustomerAction(customer c)
         {
-            Console.WriteLine($"Customer  ID {c.Id}  Name {c.Name}  added.");
+            Console.WriteLine($"Customer  ID {c.Id} , Name {c.Name} ");
         }
     }
 }
