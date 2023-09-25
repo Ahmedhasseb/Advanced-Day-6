@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 G:\ITI\BackEnd\TaskDay6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
 G:\ITI\BackEnd\TaskDay6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
 G:\ITI\BackEnd\TaskDay6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
@@ -13,3 +14,23 @@ G:\ITI\BackEnd\TaskDay6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleA
 G:\ITI\BackEnd\TaskDay6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 G:\ITI\BackEnd\TaskDay6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 G:\ITI\BackEnd\TaskDay6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+=======
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\customer.dll
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\customer.netmodule
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+M:\ITI\aswan.NET\Files and labs\C#.NET\Advanced-Day-6\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+>>>>>>> 097bbf0d0c7db07dce2cc0ddbf9df94019d67578

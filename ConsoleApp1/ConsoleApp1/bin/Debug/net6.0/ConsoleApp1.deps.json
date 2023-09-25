@@ -7,9 +7,26 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ConsoleApp1/1.0.0": {
+<<<<<<< HEAD
         "runtime": {
           "ConsoleApp1.dll": {}
         }
+=======
+        "dependencies": {
+          "customer": "0.0.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "customer/0.0.0.0": {
+        "runtime": {
+          "customer.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+>>>>>>> 097bbf0d0c7db07dce2cc0ddbf9df94019d67578
       }
     }
   },
@@ -18,6 +35,14 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
+=======
+    },
+    "customer/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+>>>>>>> 097bbf0d0c7db07dce2cc0ddbf9df94019d67578
     }
   }
 }
