@@ -5,7 +5,7 @@
         public int Id { get; set; }
         public string Name { get; set; }
 
-        Action<customer> _action { get; set; }
+       public  Action<customer> _action { get; set; }
 
         public void  add()
         {
