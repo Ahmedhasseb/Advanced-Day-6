@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "M:\\ITI\\aswan.NET\\Files and labs\\C#.NET\\Advanced-Day-6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "G:\\ITI\\BackEnd\\TaskDay6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "M:\\ITI\\aswan.NET\\Files and labs\\C#.NET\\Advanced-Day-6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "G:\\ITI\\BackEnd\\TaskDay6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\ITI\\aswan.NET\\Files and labs\\C#.NET\\Advanced-Day-6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "G:\\ITI\\BackEnd\\TaskDay6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "M:\\ITI\\aswan.NET\\Files and labs\\C#.NET\\Advanced-Day-6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\mahmo\\.nuget\\packages\\",
-        "outputPath": "M:\\ITI\\aswan.NET\\Files and labs\\C#.NET\\Advanced-Day-6\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "G:\\ITI\\BackEnd\\TaskDay6\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Al-Quods\\.nuget\\packages\\",
+        "outputPath": "G:\\ITI\\BackEnd\\TaskDay6\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mahmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Al-Quods\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
